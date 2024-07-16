@@ -1,6 +1,6 @@
 # practice
 
-A new Flutter project.
+This is my first time using flutter.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Inspo and desing
+
+Link https://dribbble.com/shots/18588973-Mobile-App-iOS-Android-UI
+![alt text](image.png)
